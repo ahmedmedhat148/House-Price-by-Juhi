@@ -185,7 +185,7 @@ house_price.pkl
 
 ## 👨‍💻 Author
 
-Mahmoud
+Ahmed Medhat
 
 Faculty of Computers and Information
 
